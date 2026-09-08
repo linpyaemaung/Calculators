@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+ }
+
+.container {
+    width: 400px;
+    margin: 100px auto;
+}
+
+.card {
+    padding: 30px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.form-label{
+    font-weight: bold;
+}
+.convertor-link {
+    margin-top: 20px;
+    text-align: center;
+}
+#result{
+    color:green;
+    margin-top: 20px;
+}
+
+ 

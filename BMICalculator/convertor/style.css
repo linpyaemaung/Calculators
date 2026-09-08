@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+ }
+
+.container {
+    width: 400px;
+    margin: 100px auto;
+}
+
+.card {
+    padding: 30px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.form-label{
+    font-weight: bold;
+}
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom:8px;
+}
+#kgResult, #cmResult {
+    margin-top: 20px;
+    color:green;
+}
+.back-link {
+    margin-top: 20px;
+    text-align: center;
+}
+.back-link a {
+    text-decoration: none;
+    color:#000;
+}
+
+
+ 
