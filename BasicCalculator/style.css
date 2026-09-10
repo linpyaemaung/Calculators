@@ -28,9 +28,9 @@ body {
 }
 @media screen and (min-width: 480px) and (max-width: 768px) {
   .card{
-    width:70%;
+    width:100%;
   }
   .btn-success {
-    width: 50%;
+    width: 100%;
   }
 }
